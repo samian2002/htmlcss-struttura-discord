@@ -20,7 +20,7 @@
 
 .boxed {
     margin: 0 auto;
-    width: 1200px;
+    width: 75rem;
 
 }
 
@@ -78,8 +78,8 @@ header>nav{
 }
 
 .box{
-    width: 1200px;
-    height: 13rem;
+    width: 75rem;
+    height: 35rem;
     display: flex;
 }
 section.dark {
@@ -103,8 +103,8 @@ section.light {
 }
 .green-box{
     background-color: #228b22;
-    height: 40rem;
-    width: 1200px;
+    height: 50rem;
+    width: 75rem;
 }
 
 
@@ -118,6 +118,52 @@ footer {
     padding: 1rem 0rem 3rem 0rem;
     display: flex;
     justify-content: center;
-    width: 1200px;
+    width: 75rem;
+    height: 40rem;
 }
 
+.footer-pink-box {
+    background-color: #f08080;
+    width: 33.2%;
+
+}
+
+.foot-center{
+    display: flex;
+    justify-content: center;
+}
+
+.footer-blu-box{
+    width: 16.7%;
+    background-color: #20b2aa;
+
+}
+
+.white-debug{
+    border: dashed 2px white;
+}
+
+.br{
+    background-color: #56585a;
+    width: 100%;
+    height: 0.2rem;
+}
+
+.foot{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.foot-bar{
+    background-color: #7fffd4;
+    width: 75rem;
+    height: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.end{
+    background-color: #ffc0ca;
+}
